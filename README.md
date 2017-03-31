@@ -18,4 +18,4 @@ It is not sufficient to start an .exe via shellcode ;)
 
 Exploiters, be creative!
 
-Greets from unknownv2 & mono _
+Greets from unknownv2 & mon0 _
