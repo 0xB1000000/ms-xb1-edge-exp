@@ -15,6 +15,7 @@ https://bugs.chromium.org/p/project-zero/issues/detail?id=945
 Info:
 
 It is not sufficient to start an .exe via shellcode ;)
+
 Exploiters, be creative!
 
 Greets from unknownv2 & mono _
