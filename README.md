@@ -18,4 +18,6 @@ It is not sufficient to start an .exe via shellcode ;)
 
 Exploiters, be creative!
 
+It is desired to find a way to invoke edge engine when console is offline
+
 Greets from unknownv2 & mon0 _
